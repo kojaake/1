@@ -6,3 +6,6 @@
 ```bash
 docker exec myweb bash -c "echo 'hello world' > /usr/local/apache2/htdocs/index.html"
 ```
+<div align="center">    
+ <img src="http://pakcw.cafe24.com/attach/1/4914455273.png" width = "250" alt="Demonstration" align=center />
+</div>
